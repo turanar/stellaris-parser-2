@@ -1,0 +1,8 @@
+Copy this two folders from Stellaris
+
+<Steam folder>\steamapps\common\Stellaris\common
+<Steam folder>\steamapps\common\Stellaris\localisation
+
+into this folder
+
+for mods, most likely you will have to copy the mod files into files/common and files/technology
